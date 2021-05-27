@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```js
 const Profile = {
     name: "SEU NOME COMPLETO",
-    knowledge: "ÁREA DE CONHECIMENTO",
+    knowledge: "Aplicações webs & Desktop",
     
     primarySkillset: "ALGUMAS HABILIDADES",
     languages: ["C#", "Python", "JavaScript", "Kotlin", "React"]
