@@ -8,10 +8,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```js
 const Profile = {
-    name: "SEU NOME COMPLETO",
+    name: "Paulo Azevedo Rispoli",
     knowledge: "Aplicações webs & Desktop",
     
-    primarySkillset: "ALGUMAS HABILIDADES",
+    primarySkillset: "Make Softers & Create A cloud hosting and security company",
     languages: ["C#", "Python", "JavaScript", "Kotlin", "React"]
 }
 ```
