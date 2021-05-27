@@ -8,11 +8,11 @@ Desejo Futuramente Criar uma empresa de Hosting & Cloud Security, e Criar Softer
 
 ```js
 const Profile = {
-    name: "Paulo Azevedo Rispoli",
-    knowledge: "Aplicações webs & Desktop",
+    Name: "Paulo Azevedo Rispoli",
+    Knowledge: "Aplicações webs & Desktop",
     
-    primarySkillset: "Make Softers & Create A cloud hosting and security company",
-    languages: ["C#", "Python", "JavaScript", "BashScript"]
+    Skillset: "Make Softers & Create A cloud hosting and security company",
+    Languages: ["C#", "Python", "JavaScript", "BashScript"]
 }
 ```
 
