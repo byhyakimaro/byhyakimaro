@@ -32,9 +32,9 @@ const Profile = {
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-[youtube]: https://www.youtube.com/c/KnowNetworks
+[youtube]: https://www.youtube.com/c/KnowNetworks/
 [instagram]: https://www.instagram.com/byhyakimaro/
-[linkedin]: www.linkedin.com/in/bypauloazevedo
+[linkedin]: https://www.linkedin.com/in/bypauloazevedo/
 <br>
 
 #### Rede Sociais!
