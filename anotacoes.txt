@@ -14,8 +14,7 @@ color: rgba(255,255,255,0); -> E como o rgb mas o 4 numero serve como transparen
 =
 outline -> Serve como as margem mas ele sai para fora da div
 =
-float:left; -> Serve Para Alinhar as divs ou o conteudo na mesma linha mas no final de usar o float 
-usa-se o
+float:left; -> Serve Para Alinhar as divs ou o conteudo na mesma linha mas no final de usar o float usa-se o
 clear:both; -> Server para o final da div usado o float.
 =
 overflow -> Serve para tratar o conteudo que passar do alinhamento
