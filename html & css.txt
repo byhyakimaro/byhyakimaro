@@ -43,6 +43,7 @@ opacity: 0.9; -> opacidade
 =
 align-items: center; -> alinhas itens
 =
-inherit -> inherit e um valor que pode herdar o valor do classe pai tipo classe pai tem 
-width: 400px; se eu colocar a classe filho vai ter o mesmo valor.
-width: inherit;
+inherit -> inherit e um valor que pode herdar o valor do classe pai.
+=
+auto -> auto server para definir um valor automatico tipo height:auto; para preencher todo o tamanho automatico.
+=
