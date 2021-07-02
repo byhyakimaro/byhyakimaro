@@ -49,3 +49,6 @@ auto -> auto server para definir um valor automatico tipo height:auto; para pree
 =
 initial -> propriedade padrao do navegador tipo color: initial;, sera tipo o texto preto.
 =
+a[href] -> forma de selecionar no css o html sem classes aqui esta selecionados todos os links com href.
+a[href="https://www.google.com"] {};
+=
