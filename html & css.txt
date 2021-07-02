@@ -51,4 +51,6 @@ initial -> propriedade padrao do navegador tipo color: initial;, sera tipo o tex
 =
 a[href] -> forma de selecionar no css o html sem classes aqui esta selecionados todos os links com href.
 a[href="https://www.google.com"] ou [href="https://www.google.com"];
+a[href*="google"] -> selecionar os link com a palavra google.
 =
+
