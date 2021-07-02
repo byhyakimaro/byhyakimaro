@@ -48,9 +48,10 @@ inherit -> inherit e um valor que pode herdar o valor do classe pai.
 auto -> auto server para definir um valor automatico tipo height:auto; para preencher todo o tamanho automatico.
 =
 initial -> propriedade padrao do navegador tipo color: initial;, sera tipo o texto preto.
-=
+
+HTML ->
+
 a[href] -> forma de selecionar no css o html sem classes aqui esta selecionados todos os links com href.
 a[href="https://www.google.com"] ou [href="https://www.google.com"];
 a[href*="google"] -> selecionar os link com a palavra google.
 =
-
