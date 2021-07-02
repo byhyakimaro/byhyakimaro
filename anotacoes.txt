@@ -25,9 +25,6 @@ font-weight: 700; -> colocar negrito
 =
 object-fit: fill; -> melhora a qualidade da imagem
 =
-width: inherit; -> inherit e um valor que pode herdar o valor do classe pai tipo classe pai tem 
-width: 400px; se eu colocar a classe filho vai ter o mesmo valor.
-=
 filter: drop-shadow(8px 5px 0 #3f3f3f); -> Adiciona uma sombra
 =
 transition: width 0.3s ease-out; -> animaçao de transiçao.
@@ -45,3 +42,7 @@ filter: blur(10px); -> efeito de blur
 opacity: 0.9; -> opacidade 
 =
 align-items: center; -> alinhas itens
+=
+inherit -> inherit e um valor que pode herdar o valor do classe pai tipo classe pai tem 
+width: 400px; se eu colocar a classe filho vai ter o mesmo valor.
+width: inherit;
