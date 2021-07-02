@@ -47,3 +47,5 @@ inherit -> inherit e um valor que pode herdar o valor do classe pai.
 =
 auto -> auto server para definir um valor automatico tipo height:auto; para preencher todo o tamanho automatico.
 =
+initial -> propriedade padrao do navegador tipo color: initial;, sera tipo o texto preto.
+=
