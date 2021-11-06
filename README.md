@@ -11,7 +11,7 @@ const Profile = {
     Name: "Paulo Azevedo Rispoli",
     Knowledge: "Aplicações webs & Desktop",
     
-    Skillset: "Software engine and Security company",
+    Skillset: "Software engine, Security company and Cloud management",
     Languages: ["JavaScript", "C#","C\C++", "Python", "PHP"]
 }
 ```
