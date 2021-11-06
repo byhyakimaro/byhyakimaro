@@ -12,7 +12,7 @@ const Profile = {
     Knowledge: "Aplicações webs & Desktop",
     
     Skillset: "Make Softers & Create A cloud hosting and security company",
-    Languages: ["JavaScript", "PHP", "Python", "C#", "BashScript"]
+    Languages: ["JavaScript", "C#","C\C++", "Python", "PHP"]
 }
 ```
 
