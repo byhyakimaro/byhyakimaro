@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Desejo Futuramente Criar uma empresa de Hosting & Cloud Security, e Criar Softers Inovadores.
+Software developer, Security company and Cloud management.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
