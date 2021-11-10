@@ -2,7 +2,7 @@
 
 Software developer, Security company and Cloud management.
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
