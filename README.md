@@ -11,9 +11,6 @@ i'm Software analysis and development
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    Knowledge: "Software analysis and development",
-    
-    Skillset: "Software developer, Security company and Cloud management",
     Languages: ["JavaScript", "C#","C\C++"]
 }
 ```
@@ -40,4 +37,3 @@ const Profile = {
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
