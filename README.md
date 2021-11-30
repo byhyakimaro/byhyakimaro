@@ -4,7 +4,6 @@ Software developer, Security company and Cloud management.
 
 <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bypauloazevedo/)](https://www.linkedin.com/in/bypauloazevedo)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
@@ -35,7 +34,6 @@ const Profile = {
 
 [youtube]: https://www.youtube.com/c/KnowNetworks/
 [instagram]: https://www.instagram.com/byhyakimaro/
-[linkedin]: https://www.linkedin.com/in/bypauloazevedo/
 <br>
 
 #### Rede Sociais!
