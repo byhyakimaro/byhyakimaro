@@ -9,7 +9,7 @@ Software developer, Security company and Cloud management.
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    Knowledge: "Web and Desktop Applications",
+    Knowledge: "Software analysis and development",
     
     Skillset: "Software developer, Security company and Cloud management",
     Languages: ["JavaScript", "C#","C\C++"]
