@@ -11,7 +11,7 @@ i'm Software analysis and development
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    Languages: ["JavaScript", "C#","C\C++"]
+    Languages: ["JavaScript", "C#","C\C++","Python"]
 }
 ```
 
