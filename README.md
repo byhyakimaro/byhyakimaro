@@ -33,6 +33,4 @@ const Profile = {
 [youtube]: https://www.youtube.com/c/KnowNetworks/
 <br>
 
-#### Rede Sociais!
-
 📺 [youtube][youtube]
