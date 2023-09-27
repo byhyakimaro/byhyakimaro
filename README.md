@@ -1,7 +1,5 @@
 ### Hi 👋
 
-i'm Software analysis and development
-
 <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Azevedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bypauloazevedo/)](https://www.linkedin.com/in/bypauloazevedo)
