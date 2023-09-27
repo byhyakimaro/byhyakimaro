@@ -36,4 +36,3 @@ const Profile = {
 #### Rede Sociais!
 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
