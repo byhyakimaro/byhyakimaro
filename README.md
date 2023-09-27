@@ -22,7 +22,9 @@ const Profile = {
 
 ## **Api SDK Projects:**
 
-## **Hardware Engine & Software Engine Projects:**
+## **Hardware Engine O.I.T Projects:**
+
+## **Software Engine Projects:** 
 
 ## **Hacker Red Team Projects:** 
 
