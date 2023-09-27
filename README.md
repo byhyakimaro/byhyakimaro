@@ -11,6 +11,7 @@ i'm Software analysis and development
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
+    KnowLegde: "Business Man, Game Maker, Hacker Red Team, Web Design, Api SDK, Hardware Engine & Software Engine",
     Languages: ["JavaScript", "C#","C\C++","Python"]
 }
 ```
