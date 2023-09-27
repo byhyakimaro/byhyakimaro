@@ -31,7 +31,6 @@ const Profile = {
 </div>
 
 [youtube]: https://www.youtube.com/c/KnowNetworks/
-[instagram]: https://www.instagram.com/byhyakimaro/
 <br>
 
 #### Rede Sociais!
