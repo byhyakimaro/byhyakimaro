@@ -11,7 +11,7 @@
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    KnowLegde: "Hardware Engine & Software Engine", "Business", "GameMaker", "Hacker Red Team", "Web Design", "Api SDK",
+    KnowLegde: "Business", "Hardware Engine & Software Engine", "Web Design", "GameMaker", "Hacker Red Team", "Api SDK",
     Languages&Tools: ["Nodejs & JavaScript engine", "C#", "C\C++", "Python", "Java", "Lua engine", "VBA"]
 }
 ```
