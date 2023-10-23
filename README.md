@@ -2,7 +2,7 @@
 
 🦾 Contributions and Projects
 
-<div style="width:100%;display:flex;  justify-content: space-between;">
+<div style="margin-left:5em;display:flex;">
     <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="center" alt="NODEJS" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
