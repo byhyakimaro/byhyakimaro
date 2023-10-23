@@ -7,7 +7,7 @@
   <img width="20">
   <img width="128" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img width="20">
-  <img width="64" alt="NODEJS" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img width="64" alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
 </p>
 
 
