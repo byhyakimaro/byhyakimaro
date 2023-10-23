@@ -2,9 +2,10 @@
 
 🦾 Contributions and Projects
 
-<p>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img alt="NODEJS" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <span style="width: 10%; display: inline-block;"></span>
+  <img width="45%" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </p>
 
 
