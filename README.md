@@ -16,7 +16,7 @@ const Profile = {
     Date: "since 2021"
 }
 ```
-<img width="45" alt="about" src="(https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg)">
+<img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
 <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 ## **Web Design Projects:**  
