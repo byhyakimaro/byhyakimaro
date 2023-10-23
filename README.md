@@ -21,7 +21,7 @@
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
     Skills: [
-        "Software/Hardware Computer systems engineering",
+        "Software/Hardware Computer systems engineering & architect",
         "Hacker Red Team & Security Application",
         "Web Design",
         "GameMaker",
