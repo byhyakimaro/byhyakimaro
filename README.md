@@ -11,7 +11,7 @@ https://discord.com/invite/PgMV978EVD
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    KnowLegde: "Business", "Computer software/computer systems engineering", "Web Design", "GameMaker", "Hacker Red Team",
+    KnowLegde: "Business", "Software/computer systems engineering", "Web Design", "GameMaker", "Hacker Red Team",
     Languages&Tools: ["Nodejs Advanced with Addons C\C++ & JavaScript Advanced, C/C++, Windows API, Linux OS"],
     Date: "since 2020"
 }
