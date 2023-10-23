@@ -16,6 +16,7 @@ const Profile = {
     Date: "since 2021"
 }
 ```
+https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg
 
 ## **Web Design Projects:**  
 
