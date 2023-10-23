@@ -9,7 +9,7 @@
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    KnowLegde: [
+    Skills: [
         "Business",
         "Software/Hardware Computer systems engineering",
         "Web Design", "GameMaker",
