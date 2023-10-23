@@ -4,7 +4,7 @@
 
 <p align="left">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <span style="width: 20px; display: inline-block;"> </span>
+  <br>
   <img width="120" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </p>
 
