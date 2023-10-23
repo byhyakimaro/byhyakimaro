@@ -16,7 +16,7 @@ const Profile = {
     Date: "since 2021"
 }
 ```
-  <img align="center" alt="NODEJS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="NODEJS" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 
 ## **Web Design Projects:**  
 
