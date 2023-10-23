@@ -10,10 +10,11 @@
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
     Skills: [
-        "Business",
         "Software/Hardware Computer systems engineering",
-        "Web Design", "GameMaker",
-        "Hacker Red Team & Security Application"
+        "Hacker Red Team & Security Application",
+        "Web Design",
+        "GameMaker",
+        "Business"
     ],
     Languages&Tools: ["Nodejs Advanced with Addons C\C++ & JavaScript Advanced, C/C++, Windows API, Linux OS"],
     Date: "since 2021"
