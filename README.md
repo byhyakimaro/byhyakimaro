@@ -9,7 +9,8 @@
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
-    KnowLegde: "Business", "Software/Hardware Computer systems engineering", "Web Design", "GameMaker", "Hacker Red Team & Security Application",
+    KnowLegde: ["Business", "Software/Hardware Computer systems engineering", "Web Design", "GameMaker",
+    "Hacker Red Team & Security Application"],
     Languages&Tools: ["Nodejs Advanced with Addons C\C++ & JavaScript Advanced, C/C++, Windows API, Linux OS"],
     Date: "since 2021"
 }
