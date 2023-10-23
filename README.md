@@ -5,9 +5,9 @@
 <div>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="20">
-  <img width="128" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img width="20">
   <img width="64" alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
+  <img width="20">
+  <img width="128" alt="NODEJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
 
