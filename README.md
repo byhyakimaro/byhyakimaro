@@ -4,8 +4,6 @@
 
 <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=byhyakimaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-https://discord.com/invite/PgMV978EVD
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 ```js
