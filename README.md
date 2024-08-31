@@ -27,7 +27,7 @@ const Profile = {
         "GameMaker",
         "Business"
     ],
-    Languages&Tools: ["Nodejs Advanced with Addons C\C++ & JavaScript Advanced, C/C++, Windows API, Linux OS"],
+    Languages&Tools: ["Assembly, C/C++, Nodejs Advanced with Addons C\C++ & JavaScript Advanced, Windows API, Linux OS, Docker"],
     Date: "since 2021"
 }
 ```
