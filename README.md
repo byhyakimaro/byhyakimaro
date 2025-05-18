@@ -20,14 +20,17 @@
 ```js
 const Profile = {
     Name: "Paulo Azevedo Rispoli",
+    Objective: "Focused on backend development with Rust as the primary language",
     Skills: [
-        "Software Engine Developer",
+        "Software Engine",
+        "Hardware Engine"
         "Hacker Red Team & Security Application",
         "Web Design",
         "GameMaker",
         "Business"
     ],
-    Languages&Tools: ["Assembly, Python, C/C++, Nodejs Advanced with Addons C\C++ & JavaScript Advanced, Windows API, Linux OS, Docker"],
+    Languages: ["Rust Advanced", "JavaScript Advanced", "Assembly", "C/C++", "Python"],
+    Tools: ["Nodejs Advanced with Addons C\C++", "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis"],
     Date: "since 2021"
 }
 ```
