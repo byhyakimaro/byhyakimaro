@@ -29,7 +29,7 @@ const Profile = {
         "GameMaker",
         "Business"
     ],
-    Languages: [ "Assembly", "C/C++", "JavaScript", "Python", "Rust Advanced" ],
+    Languages: [ "Assembly", "C/C++", "JavaScript", "Python" ],
     Tools: [ "Nodejs Advanced with Addons C\C++", "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
     Date: "since 2021"
 }
