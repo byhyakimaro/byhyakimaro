@@ -17,14 +17,14 @@ const Profile = {
     Objective: "Focused on backend development",
     Skills: [
         "Software Engine",
-        "Hardware Engine"
-        "Hacker Red Team & Security Application",
+        "Eletronic Engine"
+        "Hacker Red Team Security",
         "Web Design",
         "GameMaker",
         "Business"
     ],
-    Languages: [ "Assembly", "C/C++", "JavaScript", "Python" ],
-    Tools: [ "Nodejs Advanced with Addons C\C++", "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
+    Languages: [ "C/C++", "Go", "JavaScript", "Assembly"],
+    Tools: [ "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
     Date: "since 2021"
 }
 ```
