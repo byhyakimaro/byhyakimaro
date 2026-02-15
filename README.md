@@ -2,8 +2,8 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-```js
-const Profile = {
+```cpp
+Profile = {
     Name: "Paulo Azevedo Rispoli",
     Objective: "Focused on backend development",
     Skills: [
