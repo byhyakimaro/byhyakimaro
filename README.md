@@ -1,14 +1,5 @@
 ### Hi 👋
 
-🦾 Contributions and Projects
-
-<div>
-  <img width="64" alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
-  <img width="20">
-  <img width="48" alt="JAVASCRIPT" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</div>
-
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 ```js
