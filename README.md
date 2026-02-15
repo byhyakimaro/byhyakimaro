@@ -7,9 +7,9 @@ const Profile = {
     Name: "Paulo Azevedo Rispoli",
     Objective: "Focused on backend development",
     Skills: [
-        "Software Engine",
-        "Eletronic Engine"
-        "Hacker Red Team Security",
+        "Electrical Engineering",
+        "Software Engineering",
+        "Red Team Security",
         "Web Design",
         "GameMaker",
         "Business"
