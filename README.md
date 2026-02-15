@@ -11,7 +11,6 @@ Profile = {
         "Software Engineering",
         "Red Team Security",
         "Web Design",
-        "GameMaker",
         "Business"
     ],
     Languages: [ "C/C++", "Go", "JavaScript", "Assembly"],
