@@ -13,7 +13,7 @@ Profile = {
         "Web Design",
         "Business"
     ],
-    Languages: [ "C/C++", "Assembly", "Go", "JavaScript" ],
+    Languages: [ "C/C++", "Assembly", "Go", "JavaScript", "C#" ],
     Tools: [ "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
     Date: "since 2021"
 }
