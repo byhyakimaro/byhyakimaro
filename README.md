@@ -10,8 +10,7 @@ Profile = {
         "Electrical Engineering",
         "Software Engineering",
         "Red Team Security",
-        "Web Design",
-        "Business"
+        "Game Dev"
     ],
     Languages: [ "C/C++", "Assembly", "Go", "JavaScript", "C#" ],
     Tools: [ "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
