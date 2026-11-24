@@ -5,7 +5,6 @@
 ```cpp
 Profile = {
     Name: "Paulo A.",
-    Objective: "Focused on backend development",
     Skills: [
         "Electrical Engineering",
         "Software Engineering",
