@@ -9,10 +9,9 @@ Profile = {
     Skills: [
         "Electrical Engineering",
         "Software Engineering",
-        "Red Team Security",
-        "Game Dev"
+        "Red Team Security"
     ],
-    Languages: [ "C/C++", "Assembly", "Go", "JavaScript", "C#" ],
+    Languages: [ "C/C++", "Assembly", "Go" ],
     Tools: [ "Windows API", "Linux OS", "Docker", "ORM PostgreeSQL", "Redis" ],
     Date: "since 2021"
 }
